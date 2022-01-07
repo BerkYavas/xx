@@ -1,10 +1,14 @@
 import sys
 
+
 def default():
-  print('hello')
+    print('hello')
+
 
 def main():
-  default()
+    default()
+
 
 if __name__ == '__main__':
-  main()
+    main()
+
