@@ -1,16 +1,16 @@
 import sys
 
 
-def default():
+def Default():
     print('hello')
 
     print('hellxxxo')
 
 
-def main():
-    default()
+def Main():
+    Default()
 
 
 if __name__ == '__main__':
-    main()
+    Main()
 
